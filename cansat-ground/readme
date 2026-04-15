@@ -1,0 +1,4 @@
+This folder contains files that managed communication uplink (sending commands to the satellite) 
+and downlink (receiving telemetry  data from the satellite).
+
+Another file managed processing the result then sending and plotting it into the MATLAB 
