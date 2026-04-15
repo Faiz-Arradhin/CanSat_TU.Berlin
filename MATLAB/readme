@@ -1,0 +1,3 @@
+This folder contains MATLAB filed that receive processed telemetry data from the ground controller to be plotted.
+
+The plotted result will be used to analyse validity and performance of the satellite.
