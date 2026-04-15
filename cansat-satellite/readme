@@ -1,0 +1,3 @@
+This folder contains files that is uploaded into the controller. It managed receiving and executing commands from the ground, reading sensor data and sending telemetry data to the ground.
+
+The main file managed time management (TMT) for eaach sensor and each task.
