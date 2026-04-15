@@ -1,6 +1,0 @@
-This folder contains C++ files that are uploaded into the controller.
-
-It managed receiving and executing commands from the ground and sending telemetry data from the sensor to the ground
-
-The main file also controls the time management (TMT) for each task 
-(reading sensor data, receiving command, executing command, and sending telemetry data)
